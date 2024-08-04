@@ -22,6 +22,6 @@
 <a href="https://www.atlassian.com/software/jira"><img width="6%" title="Jira" src="media/logo/Jira.svg"/></a>  
 </p>
 
-Мой демо-проект по автоматизации тестирования для компании [<img width="15%" title="HABITICA" src="media/logo/habitica_logo.png"/>](https://habitica.com) - https://github.com/ArturAkopov/Habitica_Tests_Project
+Мой демо-проект по автоматизации тестирования для компании [<img width="15%" title="HABITICA" src="media/logo/habitica_logo.png"/>](https://habitica.com) - [Ссылка на проект](https://github.com/ArturAkopov/Habitica_Tests_Project)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturAkopov&show_icons=true&bg_color=00000000)
