@@ -21,6 +21,7 @@
 <a href="https://www.atlassian.com/software/jira"><img width="6%" title="Jira" src="media/logo/Jira.svg"/></a>  
 </p>
 
-Мой демо-проект по автоматизации тестирования для компании [<img width="15%" title="HABITICA" src="media/logo/habitica_logo.png"/>](https://habitica.com) - [Ссылка на проект](https://github.com/ArturAkopov/Habitica_Project_Tests)
+(2025г.) Мой проект по разработке сервиса с микросервисной архитектурой, интеграцией с Kafka. и автоматизации тестирования  [ROCOCO](https://github.com/ArturAkopov/rococo))   
+(2024г.) Мой демо-проект по автоматизации тестирования для компании [<img width="15%" title="HABITICA" src="media/logo/habitica_logo.png"/>](https://habitica.com) - [Ссылка на проект](https://github.com/ArturAkopov/Habitica_Project_Tests)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturAkopov&show_icons=true&bg_color=00000000)
