@@ -22,7 +22,7 @@
   <a href="https://github.com/fescobar/allure-docker-service"><img width="5%" title="Allure Docker Service" src="media/logo/allure_docker.svg"/></a>
   <a href="https://github.com/features/actions"><img width="5%" title="GitHub Actions" src="media/logo/github_action.svg"/></a>
   <a href="https://github.com/"><img width="5%" title="GitHub" src="media/logo/github.svg"/></a>
-  <a href="https://wiremock.org/"><img width="9%" title="WireMock" src="media/logo/21368587.png"/></a>
+  <a href="https://wiremock.org/"><img width="9%" title="WireMock" src="media/logo/wiremock.png"/></a>
   <a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logo/Jenkins.svg"/></a>
   <a href="https://app-automate.browserstack.com/"><img width="6%" title="BrowserStack" src="media/logo/Browserstack.svg"/></a>
   <a href="https://developer.android.com/studio"><img width="6%" title="Android Studio" src="media/logo/Android_Studio.svg"/></a>
